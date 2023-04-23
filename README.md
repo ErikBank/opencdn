@@ -7,16 +7,3 @@ ebnk.holdingcdn.com/??.css
 ebnk.holdingcdn.com/??.map
 
 
-ebnk.holdingcdn.com/??.js
-ebnk.holdingcdn.com/??.css
-ebnk.holdingcdn.com/??.map
-
-
-ebnk.holdingcdn.com/??.js
-ebnk.holdingcdn.com/??.css
-ebnk.holdingcdn.com/??.map
-
-
-ebnk.holdingcdn.com/??.js
-ebnk.holdingcdn.com/??.css
-ebnk.holdingcdn.com/??.map
